@@ -31,7 +31,7 @@ El código del proyecto final es gratis: [jvalenzmedia/jvl_reparto](https://gith
 
 ## Consigue el libro
 
-Disponible en **Zeltrade**.
+🛒 **[Cómpralo en Zeltrade](https://www.zeltrade.shop/catalog/producto.php?slug=lua-para-fivem-de-cero-a-tu-primer-script-edici-on-2026)**: PDF a color de 134 páginas, en español.
 
 ---
 
